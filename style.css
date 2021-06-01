@@ -1,0 +1,32 @@
+.header {
+  text-align: center;
+  font-size: 150%;
+}
+
+.body {
+  background-color: linen;
+}
+
+.center {
+  margin: auto;
+  width: 600px;
+  border: 1px solid black;
+  position: sticky;
+  top: 0;
+}
+
+.leads {
+  width: 20%;
+  margin: auto;
+}
+
+.links {
+  text-align: center;
+  font-size: 100%;
+}
+
+.numbers {
+  width: 30%;
+  border: 15px double white;
+  margin: 0.01%;
+}
